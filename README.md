@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm Caroline!
+## About me
+I am an enthusiastic programmer, eager to learn about market opportunities and how to create economic value. Entrepreneurial and creative mindset, hands on, team player and problem-solver. Ready to face new technological and business trends.
+## Stats
+![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolineclc&show_icons=true&theme=synthwave&hide_rank=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolineclc&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolineclc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **carolineclc/carolineclc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
